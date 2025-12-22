@@ -1,0 +1,191 @@
+# Byte-compiled / optimized / DLL files
+# Python generates these when you run scripts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+# Compiled C extensions from Python packages
+*.so
+
+# Distribution / packaging
+# Files created when building or distributing Python packages
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Files created when freezing Python scripts into executables
+*.manifest
+*.spec
+
+# Installer logs
+# Logs from package installation
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+# Test framework and coverage tool outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+# Internationalization files
+*.mo
+*.pot
+
+# Django stuff
+# Django framework specific files
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff
+# Flask framework specific files
+instance/
+.webassets-cache
+
+# Scrapy stuff
+# Scrapy framework specific files
+.scrapy
+
+# Sphinx documentation
+# Documentation build outputs
+docs/_build/
+
+# PyBuilder
+# PyBuilder build tool outputs
+.pybuilder/
+target/
+
+# Jupyter Notebook
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# IPython
+# IPython history and configuration
+profile_default/
+ipython_config.py
+
+# pyenv
+# Python version management tool
+.python-version
+
+# pipenv
+# Pipenv virtual environment
+Pipfile.lock
+
+# poetry
+# Poetry dependency management
+poetry.lock
+
+# pdm
+# PDM package manager
+.pdm.toml
+
+# PEP 582
+# Local packages directory
+__pypackages__/
+
+# Celery stuff
+# Celery task queue
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+# Virtual environment directories - contains all installed packages
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+# Spyder IDE specific files
+.spyderproject
+.spyproject
+
+# Rope project settings
+# Rope refactoring library
+.ropeproject
+
+# mkdocs documentation
+# MkDocs static site generator
+/site
+
+# mypy
+# Type checker cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+# JetBrains PyCharm IDE
+.idea/
+
+# VS Code
+# Visual Studio Code editor
+.vscode/
+
+# macOS
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+# Linux system files
+*~
+.directory
+
+# Project specific
+# Add your project-specific files/folders here
+# Example: secrets.json, config.local.py, data/
